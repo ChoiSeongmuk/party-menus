@@ -1,9 +1,9 @@
-import { Button } from "flowbite-react";
+import MenuGrid from "@/component/menu";
 
 export default function MenuPage() {
   return (
     <div>
-      <Button>HELLO</Button>
+      <MenuGrid />
     </div>
   );
 }
